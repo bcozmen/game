@@ -174,7 +174,7 @@ class vecEnv:
 		return e
 
 	def add_connection(self, prob=0.05):
-		
+		pass
 
 	def generate_new_v(self):
 		num_nodes = self.inp_size + self.out_size + 1  # +1 for bias node
